@@ -1,11 +1,11 @@
 <div align="center" width="50">
     <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anushka Wijegoonawardana</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Mariela Nina</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
 
-## About Me :
+## Acerca de mí :
 
 - 🚀 Apasionado por la Innovación: Estudiante de noveno ciclo de Ingeniería de Sistemas e Informática en la UNAM - Perú. Buscando constantemente formas creativas de aplicar la tecnología para resolver problemas del mundo real.
 
@@ -15,15 +15,20 @@
 
 <br>
 
-## Connect with me ☕ :
+## Conéctate conmigo ☕:
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@marielanina_](https://img.icons8.com/fluency/48/000000/instagram-new.png "@marielanina_")](https://www.instagram.com/marielanina_/) 
+[![@marielanina_(https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) 
+[![@marielanina](https://img.icons8.com/fluency/48/000000/linkedin.png "@marielanina")](https://www.linkedin.com/in/marielanina/) 
+[![@MARIELANINA_](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@MARIELANINA_")](https://twitter.com/MARIELANINA_) 
+[![@+51952286963](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+51952286963")](tel:+51952286963) 
+[![@mariela30nc@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@mariela30nc@gmail.com")](mariela30nc@gmail.com)
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## En qué soy bueno 🧑‍💻:
 
 <br>
 
