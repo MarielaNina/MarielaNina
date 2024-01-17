@@ -36,6 +36,15 @@
 
 <img src="https://iconos8.es/icon/48/python"/><img src="https://img.icons8.com/color/48/000000/jupyter.png"/><img src="https://img.icons8.com/color/48/000000/google-colab.png"/>
 
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
+<img src="https://img.icons8.com/color/48/000000/pandas.png"/> <img src="https://img.icons8.com/color/48/000000/numpy.png"/><img src="https://img.icons8.com/color/48/000000/matplotlib.png"/><img src="https://img.icons8.com/color/48/000000/seaborn.png"/><img src="https://img.icons8.com/color/48/000000/opencv.png"/>
+
+
+
+
+
+
+
  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/markdown.png"/>
 
 
