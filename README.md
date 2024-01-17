@@ -50,14 +50,14 @@
 ## GitHub Stats 📈 :
 
 <br>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarielaNina&theme=algolia&date_format=M%20j%5B%2C%20Y%5D) 
 ![MarielaNina GitHub stats](https://github-readme-stats.vercel.app/api?username=MarielaNina&theme=algolia) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarielaNina&theme=algolia) 
-
 
 <br>
 
 
-
+<hr>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
