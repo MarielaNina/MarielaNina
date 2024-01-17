@@ -20,7 +20,7 @@
 <br>
 
 [![@marielanina_](https://img.icons8.com/fluency/48/000000/instagram-new.png "@marielanina_")](https://www.instagram.com/marielanina_/) 
-[![@marielanina_(https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) 
+[![@mariela.ninaa](https://img.icons8.com/fluency/48/000000/facebook.png "@mariela.ninaa")](https://www.facebook.com/mariela.ninaa) 
 [![@marielanina](https://img.icons8.com/fluency/48/000000/linkedin.png "@marielanina")](https://www.linkedin.com/in/marielanina/) 
 [![@MARIELANINA_](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@MARIELANINA_")](https://twitter.com/MARIELANINA_) 
 [![@+51952286963](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+51952286963")](tel:+51952286963) 
