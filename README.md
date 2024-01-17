@@ -36,7 +36,7 @@
 
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/python--v1.png"/> <img src="https://img.icons8.com/fluency/48/jupyter.png"/>  <img src="https://img.icons8.com/color/48/000000/google-colab.png"/>
 
-<img src="https://img.icons8.com/color/48/tensorflow.png"/> <img src="https://img.icons8.com/color/48/000000/pandas.png"/> <img src="https://img.icons8.com/color/48/000000/numpy.png"/><img src="https://img.icons8.com/color/48/000000/matplotlib.png"/><img src="https://img.icons8.com/color/48/000000/seaborn.png"/><img src="https://img.icons8.com/color/48/000000/opencv.png"/>
+<img src="https://img.icons8.com/color/48/tensorflow.png"/> <img src="https://img.icons8.com/color/48/000000/pandas.png"/> <img src="https://img.icons8.com/color/48/000000/numpy.png"/><img src="https://img.icons8.com/color/48/000000/matplotlib.png"/><img src="https://img.icons8.com/color/48/000000/opencv.png"/>
 
 
 
