@@ -51,7 +51,7 @@
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarielaNina&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)] 
-[![MarielaNina GitHub stats](https://github-readme-stats.vercel.app/api?username=MarielaNina&theme=algolia)](https://github.com/MarielaNina/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarielaNina&theme=algolia)](https://github.com/MarielaNina/github-readme-stats) 
+[![MarielaNina GitHub stats](https://github-readme-stats.vercel.app/api?username=MarielaNina&theme=algolia)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarielaNina&theme=algolia)](https://github.com/MarielaNina/github-readme-stats) 
 
 
 <br>
