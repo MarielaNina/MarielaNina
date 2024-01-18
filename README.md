@@ -7,11 +7,9 @@
 
 ## Acerca de mí :
 
-- 🚀 Apasionado por la Innovación: Estudiante de noveno ciclo de Ingeniería de Sistemas e Informática en la UNAM - Perú. Buscando constantemente formas creativas de aplicar la tecnología para resolver problemas del mundo real.
-
-- 🌍 Ciudadano del Código: Residiendo en Perú y construyendo mi camino en el mundo del desarrollo de software. Convencido de que el código trasciende fronteras y conecta a personas de todo el mundo.
-
-- 📊 Explorador de Datos: Estudiante de noveno ciclo de Ingeniería de Sistemas e Informática con una inclinación por el análisis de datos. Transformando información en conocimiento y tomando decisiones informadas.
+- 🚀 Estudiante de noveno ciclo de Ingeniería de Sistemas e Informática en la UNAM - Perú, apasionado por la aplicación creativa de la tecnología para abordar desafíos del mundo real.
+- 🌍 Residiendo en Perú y forjando mi camino en el universo del desarrollo de software. Creo firmemente que el código trasciende fronteras, conectando a personas de diversas partes del mundo.
+- 📊 Explorador de Datos con una inclinación hacia el análisis de datos y proyectos de machine learning. Busco constantemente oportunidades para utilizar la información de manera innovadora y generar soluciones impactantes.
 
 <br>
 
