@@ -83,11 +83,10 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+</hr>
 
-<hr>
  ------
-  Credit: [MarielaNina](https://github.com/MarielaNina)
- Last Edited on: 17/01/2024
+ Credit: [MarielaNina](https://github.com/MarielaNina) Last Edited on: 17/01/2024
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 
