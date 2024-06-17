@@ -1,14 +1,3 @@
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saaatsuki&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saaatsuki&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saaatsuki&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saaatsuki&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saaatsuki&theme=gruvbox&utcOffset=9)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Saaatsuki)
 
 ![GitHub Followers](https://img.shields.io/github/followers/Saaatsuki?label=follow&logo=github&style=flat)
