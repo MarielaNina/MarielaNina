@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/Saaatsuki/Saaatsuki/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/Saaatsuki/Saaatsuki/blob/output/saaatsuki-custom.svg"/>
 
 
 ## Stats
