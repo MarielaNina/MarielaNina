@@ -2,7 +2,6 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/Saaatsuki?label=follow&logo=github&style=flat)
 
-![Zenn Articles](https://badgen.org/img/zenn/Saaatsuki/articles?style=plastic)
 
 ## Stats
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saaatsuki&theme=gruvbox)
