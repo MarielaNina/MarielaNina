@@ -9,6 +9,8 @@
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Saaatsuki/github-snake/output/github-snake.svg)
 
+<img src="https://github.com/Saaatsuki/Saaatsuki/blob/output/github-contribution-grid-snake.svg"/>
+
 
 <picture>
   <source
