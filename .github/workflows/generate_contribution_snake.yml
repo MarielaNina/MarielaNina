@@ -2,7 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "7 18 * * *"  # 毎日0時に実行
+    - cron: "0 0 * * *"  # 毎日0時に実行
   workflow_dispatch:
   push:
     branches:
