@@ -2,9 +2,6 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/Saaatsuki?label=follow&logo=github&style=flat)
 
-![Qiita Posts](https://qiita-badge.apiapi.app/s/Saaatsuki/posts.svg)
-![Qiita Contributions](https://qiita-badge.apiapi.app/s/Saaatsuki/contributions.svg)
-
 ![Zenn Articles](https://badgen.org/img/zenn/Saaatsuki/articles?style=plastic)
 
 ## Stats
