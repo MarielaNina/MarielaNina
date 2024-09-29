@@ -7,7 +7,7 @@
 
 ## Acerca de mí :
 
-- 🚀 Estudiante de noveno ciclo de Ingeniería de Sistemas e Informática en la UNAM - Perú, apasionado por la aplicación creativa de la tecnología para abordar desafíos del mundo real.
+- 🚀 Egresada de la carrera de  Ingeniería de Sistemas e Informática en la UNAM - Perú, apasionado por la aplicación creativa de la tecnología para abordar desafíos del mundo real.
 - 🌍 Residiendo en Perú y forjando mi camino en el universo del desarrollo de software. Creo firmemente que el código trasciende fronteras, conectando a personas de diversas partes del mundo.
 - 📊 Explorador de Datos con una inclinación hacia el análisis de datos y proyectos de machine learning. Busco constantemente oportunidades para utilizar la información de manera innovadora y generar soluciones impactantes.
 
