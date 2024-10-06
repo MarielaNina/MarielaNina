@@ -1,37 +1,32 @@
-
-name: generate animation  # ワークフローの名前を設定します。
+name: generate animation
 
 on:
-  # 自動的に毎日24時間ごとに実行されるスケジュールを設定します。
   schedule:
-    - cron: "0 */24 * * *"  # 毎日実行されます。
-  
-  # 手動でいつでもジョブを実行できるようにします。
+    - cron: "0 */24 * * *"
   workflow_dispatch:
-  
-  # メインブランチにプッシュされたときに実行されるように設定します。
   push:
     branches:
-    - main  # 'main' ブランチにプッシュされた場合に実行されます。
+      - main
 
 jobs:
-  generate:  # 'generate' という名前のジョブを定義します。
-    runs-on: ubuntu-latest  # Ubuntuの最新バージョンで実行します。
-    timeout-minutes: 5  # ジョブの最大実行時間を10分に設定します。
-    
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      # GitHubユーザーの貢献グラフからスネークゲームを生成し、SVGアニメーションを出力します。
-      - name: generate github-contribution-grid-snake.svg  # ステップの名前
-        uses: Platane/snk/svg-only@v3  # Platane/snkリポジトリのアクションを使用します。
+      - name: Generate GitHub Contribution Grid Snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Saaatsuki  # 対象のGitHubユーザー名を指定します。
-          outputs:  # 出力ファイルの指定
+          github_user_name: Saaatsuki
+          outputs:
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-snake.svg?color_snake=#000080&color_dots=#E3E3E3A8,#918FE0,#8A87D0,#20232a?palette=github
-      # distディレクトリ内の生成物を特定のブランチにプッシュします。
-      - name: push github-contribution-grid-snake.svg to the output branch  # ステップの名前
-        uses: crazy-max/ghaction-github-pages@v3.1.0  # GitHub Pagesにデプロイするアクションを使用します。
+
+      - name: Push SVGs to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output  # 出力先のブランチを指定します。
-          build_dir: dist  # プッシュするディレクトリを指定します。
+          target_branch: output
+          build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # GitHubトークンを環境変数として設定します。
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
