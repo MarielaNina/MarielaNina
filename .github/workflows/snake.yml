@@ -25,9 +25,7 @@ jobs:
         with:
           github_user_name: Saaatsuki  # 対象のGitHubユーザー名を指定します。
           outputs: |  # 出力ファイルの指定
-
-            dist/github-snake.svg?color_snake=#FE8019&color_dots=#E1E1E1,#F0E68C,#ADFF2F,#7FFF00,#32CD32,#228B22,#006400a?palette=github  # カスタムスネークSVGと色の設定
-
+            dist/github-snake.svg?color_snake=#000080&color_dots=#E3E3E3A8,#918FE0,#8A87D0,#20232a?palette=github
       # distディレクトリ内の生成物を特定のブランチにプッシュします。
       - name: push github-contribution-grid-snake.svg to the output branch  # ステップの名前
         uses: crazy-max/ghaction-github-pages@v3.1.0  # GitHub Pagesにデプロイするアクションを使用します。
