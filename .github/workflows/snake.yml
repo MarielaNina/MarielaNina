@@ -1,3 +1,4 @@
+
 name: generate animation  # ワークフローの名前を設定します。
 
 on:
@@ -24,7 +25,7 @@ jobs:
         uses: Platane/snk/svg-only@v3  # Platane/snkリポジトリのアクションを使用します。
         with:
           github_user_name: Saaatsuki  # 対象のGitHubユーザー名を指定します。
-          outputs: |  # 出力ファイルの指定
+          outputs:  # 出力ファイルの指定
             dist/github-snake.svg?color_snake=#000080&color_dots=#E3E3E3A8,#918FE0,#8A87D0,#20232a?palette=github
       # distディレクトリ内の生成物を特定のブランチにプッシュします。
       - name: push github-contribution-grid-snake.svg to the output branch  # ステップの名前
