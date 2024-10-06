@@ -21,8 +21,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/saaatsuki-custom.svg?palette=github-dark&color_snake=#FE8019&color_dots=#E1E1E1,#F0E68C,#ADFF2F,#7FFF00,#32CD32,#228B22,#006400
-
+            dist/saaatsuki-custom.svg?palette=github-dark&color_snake=#000080&color_dots=#E3E3E3A8,#918FE0,#8A87D0,#20232a
       - name: Push SVGs to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
