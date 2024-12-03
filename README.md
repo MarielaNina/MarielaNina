@@ -2,7 +2,6 @@
 
 <img src="https://github.com/Saaatsuki/Saaatsuki/blob/output/saaatsuki-custom.svg"/>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 ## Stats
@@ -19,6 +18,8 @@ name: generate animation
 
 
 
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 <!--
