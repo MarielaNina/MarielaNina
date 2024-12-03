@@ -1,0 +1,24 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 毎日18:00 UTCに自動で実行
+    - cron: "0 18 * * *"  
+  workflow_dispatch:  # 手動で実行も可能
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3  # リポジトリの内容を取得
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1  # 3Dカレンダーを生成するアクションを使う
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # アクセストークン（GitHubが自動で用意する）
+          USERNAME: ${{ github.repository_owner }}  # GitHubのユーザー名
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .  # すべての変更を追加
+          git commit -m "generated"  # 変更内容を記録
+          git push  # GitHub に変更をアップロード
