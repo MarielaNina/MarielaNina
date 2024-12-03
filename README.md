@@ -2,6 +2,8 @@
 
 <img src="https://github.com/Saaatsuki/Saaatsuki/blob/output/saaatsuki-custom.svg"/>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 ## Stats
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saaatsuki&theme=gruvbox)
