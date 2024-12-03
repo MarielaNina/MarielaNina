@@ -10,6 +10,8 @@ profile-3d-contrib/profile-night-view.svg
 profile-3d-contrib/profile-night-green.svg
 profile-3d-contrib/profile-night-rainbow.svg-->
 
+<!--https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/docs/README.ja-jp.md-->
+
 
 
 ## Stats
