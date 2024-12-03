@@ -14,7 +14,7 @@
 ## Trophy
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Saaatsuki&theme=gruvbox)
 
-name: generate animation
+<!--name: generate animation-->
 
 
 
