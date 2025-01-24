@@ -24,6 +24,11 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark  # ダークテーマのスネーク
             dist/saaatsuki-custom.svg?palette=github-dark&color_snake=#FE8019&color_dots=#282828,#4F7D3E,#548C3E,#59A03E,#5EBB3E,#63D03E  # カスタムカラーのスネーク
 
+      - name: Add timestamp to URLs for cache busting  # キャッシュ回避用のタイムスタンプをSVG URLに追加
+        run: |
+          TIMESTAMP=$(date +%s)
+          echo "https://username.github.io/repo-name/dist/github-contribution-grid-snake.svg?time=${TIMESTAMP}" > dist/latest-url.txt
+
       - name: Push SVGs to Output Branch  # SVGファイルを出力ブランチにプッシュ
         uses: crazy-max/ghaction-github-pages@v3.1.0  # GitHub Pagesにプッシュするアクションを使用
         with:
