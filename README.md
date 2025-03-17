@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6F61&height=180&section=header&fontAlign=50&fontAlignY=40&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&fontAlign=50&fontAlignY=40&animation=fadeIn"/>
 
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Mariela Nina</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/MarielaNina?style=for-the-badge&color=FF6F61">
-  <img src="https://img.shields.io/github/stars/MarielaNina?style=for-the-badge&color=FF6F61">
-  <img src="https://komarev.com/ghpvc/?username=MarielaNina&color=FF6F61&style=for-the-badge" alt="MarielaNina"/>
+  <img src="https://img.shields.io/github/followers/MarielaNina?style=for-the-badge&color=6A5ACD">
+  <img src="https://img.shields.io/github/stars/MarielaNina?style=for-the-badge&color=6A5ACD">
+  <img src="https://komarev.com/ghpvc/?username=MarielaNina&color=6A5ACD&style=for-the-badge" alt="MarielaNina"/>
 </p>
 
 ## 🌟 Acerca de mí :
@@ -57,9 +57,9 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarielaNina&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MarielaNina&theme=gruvbox&show_icons=true&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarielaNina&theme=gruvbox&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarielaNina&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarielaNina&theme=radical&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarielaNina&theme=radical&layout=compact&hide_border=true"/>
 </p>
 
 ---
@@ -79,4 +79,4 @@
 
 📌 **Créditos**: [MarielaNina](https://github.com/MarielaNina) | 📅 **Última edición**: 17/03/2025
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6F61&height=180&section=footer&fontAlign=50&fontAlignY=40&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=footer&fontAlign=50&fontAlignY=40&animation=fadeIn"/>
