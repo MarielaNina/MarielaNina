@@ -1,52 +1,61 @@
-![](./profile-3d-contrib/profile-night-green.svg)
+<!--✨ Saaatsukiのギャラリーへようこそ ✨-->
 
-<!--profile-3d-contrib/profile-green-animate.svg
-profile-3d-contrib/profile-green.svg
-profile-3d-contrib/profile-season-animate.svg
-profile-3d-contrib/profile-season.svg
-profile-3d-contrib/profile-south-season-animate.svg
-profile-3d-contrib/profile-south-season.svg
-profile-3d-contrib/profile-night-view.svg
-profile-3d-contrib/profile-night-green.svg
-profile-3d-contrib/profile-night-rainbow.svg-->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="100%"/>
+</p>
 
-<!--https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/docs/README.ja-jp.md-->
-
-
-
-## Stats
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saaatsuki&theme=gruvbox)
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saaatsuki&theme=gruvbox)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saaatsuki&theme=gruvbox)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saaatsuki&theme=gruvbox)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saaatsuki&theme=gruvbox&utcOffset=9)
-
-
-<img src="https://github.com/Saaatsuki/Saaatsuki/blob/output/saaatsuki-custom.svg"/>
-
-## Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=Saaatsuki&theme=gruvbox)
-
-<!--name: generate animation-->
-
-
-
-
-
-
-
-
+<!-- 他にも色々ありますよ ↓ -->
 <!--
-**Saaatsuki/Saaatsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+profile-green-animate.svg
+profile-season-animate.svg
+profile-night-rainbow.svg
 -->
+
+---
+
+## 🍓 About Me
+
+- 🚀 Exploring: Embedded Systems × Autonomous Vehicles × AI
+- 🌿 Passionate about: Java, Machine Learning, Arduino, Jetson Nano
+- 🌙 Favorite Theme: Gruvbox + Night Green vibes
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saaatsuki&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saaatsuki&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saaatsuki&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saaatsuki&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saaatsuki&theme=gruvbox&utcOffset=9" />
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://github.com/Saaatsuki/Saaatsuki/blob/output/saaatsuki-custom.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saaatsuki&theme=gruvbox&margin-w=10&margin-h=15" />
+</p>
+
+---
+
+## ☕ Connect
+
+> I'm always up for a chat about tech, learning, or cool projects.
+
+- 📫 [GitHub](https://github.com/Saaatsuki)
+- ✨ Projects in progress: Autonomous vehicles, AI-driven sensors, line-tracing robot
+
+---
+
+<!-- Saaatsuki/Saaatsuki is a ✨ special ✨ repository -->
