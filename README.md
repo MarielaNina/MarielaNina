@@ -1,27 +1,32 @@
-<!--✨ Saaatsukiのギャラリーへようこそ ✨-->
+<!--✨ Welcome to Saaatsuki's Wonderland ✨-->
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FEC260&vCenter=true&width=435&lines=✨+Welcome+to+Saaatsuki's+Gallery+✨;Exploring+Embedded+AI+%26+Robotics;Lover+of+Code%2C+Coffee%2C+and+Creativity" alt="Typing SVG" />
 </p>
 
-<!-- 他にも色々ありますよ ↓ -->
-<!--
-profile-green-animate.svg
-profile-season-animate.svg
-profile-night-rainbow.svg
--->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="100%" />
+</p>
 
 ---
 
 ## 🍓 About Me
 
-- 🚀 Exploring: Embedded Systems × Autonomous Vehicles × AI
-- 🌿 Passionate about: Java, Machine Learning, Arduino, Jetson Nano
-- 🌙 Favorite Theme: Gruvbox + Night Green vibes
+🎯 **Interests**  
+- Embedded Systems × Autonomous Vehicles × AI  
+- Java / Jetson Nano / Arduino / Machine Learning  
+
+🌙 **Vibes**  
+- Favorite Theme: `Gruvbox` + `Night Green`  
+- Coding with lo-fi & tea 🍵  
+
+🧩 **Fun Facts**  
+- Makes robots follow lines like ninjas 🥷  
+- Can debug faster than a coffee brews ☕💻
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saaatsuki&theme=gruvbox" />
@@ -41,7 +46,7 @@ profile-night-rainbow.svg
 
 ---
 
-## 🏆 GitHub Trophy
+## 🏆 GitHub Trophy Case
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Saaatsuki&theme=gruvbox&margin-w=10&margin-h=15" />
@@ -49,13 +54,28 @@ profile-night-rainbow.svg
 
 ---
 
-## ☕ Connect
+<!-- ## 🎨 Aesthetic Themes
 
-> I'm always up for a chat about tech, learning, or cool projects.
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="45%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="45%" />
+</p>->
+
+<!-- 他にもバリエーションたっぷり！ -->
+
+---
+
+## 🤝 Let's Connect
+
+> I'm always excited to chat about tech, robots, or just say hi 👋
 
 - 📫 [GitHub](https://github.com/Saaatsuki)
-- ✨ Projects in progress: Autonomous vehicles, AI-driven sensors, line-tracing robot
+- 📸 Ongoing Projects: Line-tracing robot, Autonomous navigation, AI-powered sensors
 
 ---
 
 <!-- Saaatsuki/Saaatsuki is a ✨ special ✨ repository -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
