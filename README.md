@@ -1,8 +1,3 @@
-<!--✨ Welcome to Saaatsuki's Wonderland ✨-->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FEC260&vCenter=true&width=435&lines=✨+Welcome+to+Saaatsuki's+Gallery+✨;Exploring+Embedded+AI+%26+Robotics;Lover+of+Code%2C+Coffee%2C+and+Creativity" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="100%" />
@@ -13,16 +8,17 @@
 ## 🍓 About Me
 
 🎯 **Interests**  
-- Embedded Systems × Autonomous Vehicles × AI  
-- Java / Jetson Nano / Arduino / Machine Learning  
+- Frontend Development × HTML × CSS × JavaScript  
+- Passionate about crafting beautiful and functional user interfaces  
+- Exploring web technologies and constantly learning  
 
 🌙 **Vibes**  
 - Favorite Theme: `Gruvbox` + `Night Green`  
-- Coding with lo-fi & tea 🍵  
+- Coding with lo-fi music and a warm cup of tea 🍵 (No coffee here! ☕🚫)  
 
 🧩 **Fun Facts**  
-- Makes robots follow lines like ninjas 🥷  
-- Can debug faster than a coffee brews ☕💻
+- Loves creating sleek, responsive websites that work seamlessly across devices 📱💻  
+- Can debug code while listening to music, but *still* can't stand coffee! 😅
 
 ---
 
@@ -54,23 +50,15 @@
 
 ---
 
-<!-- ## 🎨 Aesthetic Themes
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="45%" />
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="45%" />
-</p>->
-
-<!-- 他にもバリエーションたっぷり！ -->
 
 ---
 
 ## 🤝 Let's Connect
 
-> I'm always excited to chat about tech, robots, or just say hi 👋
+> Always excited to chat about frontend development, coding, or just say hi 👋
 
 - 📫 [GitHub](https://github.com/Saaatsuki)
-- 📸 Ongoing Projects: Line-tracing robot, Autonomous navigation, AI-powered sensors
+- 📸 Ongoing Projects: Responsive websites, JavaScript apps, Interactive UIs
 
 ---
 
