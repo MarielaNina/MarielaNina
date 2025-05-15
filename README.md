@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&text=I%20am%20Satsuki.&fontSize=70&color=0:f1e05a,100:fe8019&stroke=000000&animation=fadeIn" alt="venom" />
+</p>
+
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="100%" />
@@ -64,6 +68,4 @@
 
 <!-- Saaatsuki/Saaatsuki is a ✨ special ✨ repository -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+
