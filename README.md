@@ -9,7 +9,7 @@
 
 ---
 
-## 🍓 About Me
+<!--## 🍓 About Me
 
 🎯 **Interests**  
 - Frontend Development × HTML × CSS × JavaScript  
@@ -24,7 +24,7 @@
 - Loves creating sleek, responsive websites that work seamlessly across devices 📱💻  
 - Can debug code while listening to music, but *still* can't stand coffee! 😅
 
----
+----->
 
 ## 📈 GitHub Stats
 
@@ -54,7 +54,7 @@
 
 ---
 
-
+<!--
 ---
 
 ## 🤝 Let's Connect
@@ -65,6 +65,7 @@
 - 📸 Ongoing Projects: Responsive websites, JavaScript apps, Interactive UIs
 
 ---
+-->
 
 <!-- Saaatsuki/Saaatsuki is a ✨ special ✨ repository -->
 
