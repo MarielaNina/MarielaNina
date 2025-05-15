@@ -7,8 +7,15 @@
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="100%" />
 </p>
 
----
 
+
+## 💭 skills
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=js,html,css,figma,python,java" />
+<!--ts,jquery,nodejs,react,nextjs,gatsbyjs,vue,astro,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,aws,git,github,githubactions,-->
+
+
+---
 <!--## 🍓 About Me
 
 🎯 **Interests**  
