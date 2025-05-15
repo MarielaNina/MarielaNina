@@ -11,7 +11,7 @@
 
 ## 💭 skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=js,html,css,figma,python,java" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=js,html,css,figma,python,java,linux" />
 <!--ts,jquery,nodejs,react,nextjs,gatsbyjs,vue,astro,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,aws,git,github,githubactions,-->
 
 
