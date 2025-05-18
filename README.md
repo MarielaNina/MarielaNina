@@ -32,9 +32,7 @@
 - Can debug code while listening to music, but *still* can't stand coffee! 😅
 
 ----->
-<p align="center">
-  <img src="https://wakatime.com/badge/github/Saaatsuki/Saaatsuki.svg" alt="wakatime badge" />
-</p>
+
 
 
 
