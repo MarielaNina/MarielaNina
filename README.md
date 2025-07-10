@@ -9,7 +9,7 @@
 
 
 
-## 💭 skills
+## 💻 studying...
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,java,html,css,js,ts,sass,jquery,linux,php,nodejs,figma" />
 <!--ts,jquery,nodejs,react,nextjs,gatsbyjs,vue,astro,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,aws,git,github,githubactions,-->
