@@ -63,6 +63,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MarielaNina&theme=gruvbox&margin-w=10&margin-h=15" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" />
+</picture>
 
 ---
 
