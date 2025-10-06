@@ -52,7 +52,7 @@
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://github.com/Saaatsuki/Saaatsuki/blob/output/saaatsuki-custom.svg" alt="Snake animation" />
+  <img src="https://github.com/MarielaNina/MarielaNina/blob/main/MarielaNina-custom.svg" alt="Snake animation" />
 </p>
 
 ---
