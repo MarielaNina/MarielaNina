@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&text=I%20am%20Satsuki.&fontSize=70&color=0:f1e05a,100:fe8019&stroke=000000&animation=fadeIn" alt="venom" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&text=I%20am%20Mariela.&fontSize=70&color=0:f1e05a,100:fe8019&stroke=000000&animation=fadeIn" alt="venom" />
 </p>
 
 
@@ -52,7 +52,7 @@
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://github.com/MarielaNina/MarielaNina/blob/output/MarielaNina-custom.svg" alt="Snake animation" />
+  <img src="https://github.com/Saaatsuki/Saaatsuki/blob/output/saaatsuki-custom.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## 🏆 GitHub Trophy Case
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarielaNina&theme=gruvbox&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saaatsuki&theme=gruvbox&margin-w=10&margin-h=15" />
 </p>
 
 ---
@@ -72,12 +72,12 @@
 
 > Always excited to chat about frontend development, coding, or just say hi 👋
 
-- 📫 [GitHub](https://github.com/MarielaNina)
+- 📫 [GitHub](https://github.com/Saaatsuki)
 - 📸 Ongoing Projects: Responsive websites, JavaScript apps, Interactive UIs
 
 ---
 -->
 
-<!-- MarielaNina/MarielaNina is a ✨ special ✨ repository -->
+<!-- Saaatsuki/Saaatsuki is a ✨ special ✨ repository -->
 
 
