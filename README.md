@@ -40,11 +40,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saaatsuki&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saaatsuki&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saaatsuki&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saaatsuki&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saaatsuki&theme=gruvbox&utcOffset=9" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarielaNina&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarielaNina&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarielaNina&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarielaNina&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarielaNina&theme=gruvbox&utcOffset=9" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://github.com/Saaatsuki/Saaatsuki/blob/output/saaatsuki-custom.svg" alt="Snake animation" />
+  <img src="https://github.com/MarielaNina/MarielaNina/blob/output/MarielaNina-custom.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## 🏆 GitHub Trophy Case
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saaatsuki&theme=gruvbox&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarielaNina&theme=gruvbox&margin-w=10&margin-h=15" />
 </p>
 
 ---
@@ -72,12 +72,12 @@
 
 > Always excited to chat about frontend development, coding, or just say hi 👋
 
-- 📫 [GitHub](https://github.com/Saaatsuki)
+- 📫 [GitHub](https://github.com/MarielaNina)
 - 📸 Ongoing Projects: Responsive websites, JavaScript apps, Interactive UIs
 
 ---
 -->
 
-<!-- Saaatsuki/Saaatsuki is a ✨ special ✨ repository -->
+<!-- MarielaNina/MarielaNina is a ✨ special ✨ repository -->
 
 
