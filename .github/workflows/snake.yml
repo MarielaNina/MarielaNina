@@ -31,7 +31,8 @@ jobs:
       - name: Add timestamp to URLs for cache busting
         run: |
           TIMESTAMP=$(date +%s)
-          echo "https://MarielaNina.github.io/repo-name/dist/github-contribution-grid-snake.svg?time=${TIMESTAMP}" > dist/latest-url.txt
+          echo "https://MarielaNina.github.io/MarielaNina/dist/github-contribution-grid-snake.svg?time=${TIMESTAMP}" > dist/latest-url.txt
+
           echo "Timestamp added: $TIMESTAMP"
 
       - name: Push SVGs to Output Branch
