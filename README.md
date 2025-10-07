@@ -51,11 +51,14 @@
 
 ## 🐍 Snake Animation
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" />
-</picture>
+<div style="display: flex; justify-content: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" />
+  </picture>
+</div>
+
 
 ---
 
