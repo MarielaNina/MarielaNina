@@ -11,8 +11,7 @@
 
 ## 💻 studying...
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,pytorch,tensorflow,keras,scikitlearn,opencv,jupyter,numpy,pandas,matplotlib,java,git,github,linux" />
-
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=python,pytorch,tensorflow,scikitlearn,opencv,jupyter,numpy,pandas,matplotlib,seaborn,nltk,spacy,java,git,github,linux" />
 
 ---
 <!--## 🍓 About Me
