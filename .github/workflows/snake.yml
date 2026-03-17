@@ -4,14 +4,10 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: generate snake
@@ -22,7 +18,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: push to output branch
+      - name: push snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
