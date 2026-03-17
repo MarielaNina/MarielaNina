@@ -62,9 +62,8 @@
 ## 🏆 GitHub Trophy Case
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarielaNina&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarielaNina" />
 </p>
-
 
 ---
 
