@@ -1,84 +1,47 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&text=I%20am%20Mariela.&fontSize=70&color=0:f1e05a,100:fe8019&stroke=000000&animation=fadeIn" alt="venom" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&text=Mariela%20Nina&fontSize=70&color=0:f1e05a,100:fe8019&stroke=000000&animation=fadeIn" alt="header" />
 </p>
-
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%" />
 </p>
 
+---
 
+## 💻 Tech
 
-## 💻 studying...
-
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=python,pytorch,tensorflow,scikitlearn,opencv,jupyter,numpy,pandas,matplotlib,seaborn,nltk,spacy,java,git,github,linux" />
+<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=python,pytorch,tensorflow,sklearn,opencv,jupyter,numpy,pandas,matplotlib,seaborn,nltk,spacy,java,git,github,linux" />
 
 ---
-<!--## 🍓 About Me
 
-🎯 **Interests**  
-- Frontend Development × HTML × CSS × JavaScript  
-- Passionate about crafting beautiful and functional user interfaces  
-- Exploring web technologies and constantly learning  
-
-🌙 **Vibes**  
-- Favorite Theme: `Gruvbox` + `Night Green`  
-- Coding with lo-fi music and a warm cup of tea 🍵 (No coffee here! ☕🚫)  
-
-🧩 **Fun Facts**  
-- Loves creating sleek, responsive websites that work seamlessly across devices 📱💻  
-- Can debug code while listening to music, but *still* can't stand coffee! 😅
-
------>
-
-
-
-
-
-## 📈 GitHub Stats
+## 📈 GitHub
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarielaNina&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarielaNina&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarielaNina&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarielaNina&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarielaNina&theme=gruvbox&utcOffset=9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarielaNina&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarielaNina&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarielaNina&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarielaNina&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarielaNina&theme=gruvbox&utcOffset=-3" />
 </p>
 
 ---
 
-## 🐍 Snake Animation
+## 🐍 Activity
 
-<div style="text-align: center;">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarielaNina/MarielaNina/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarielaNina/MarielaNina/output/github-snake.svg" />
+    <img alt="github activity" src="https://raw.githubusercontent.com/MarielaNina/MarielaNina/output/github-snake.svg" />
   </picture>
 </div>
 
-
 ---
-## 🏆 GitHub Trophy Case
+
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarielaNina&show_icons=true&theme=gruvbox" />
 </p>
 
 ---
-
-<!--
----
-
-## 🤝 Let's Connect
-
-> Always excited to chat about frontend development, coding, or just say hi 👋
-
-- 📫 [GitHub](https://github.com/Saaatsuki)
-- 📸 Ongoing Projects: Responsive websites, JavaScript apps, Interactive UIs
-
----
--->
-
-<!-- Saaatsuki/Saaatsuki is a ✨ special ✨ repository -->
-
